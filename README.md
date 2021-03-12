@@ -1,2 +1,2 @@
 # wethinkcode_Cohort2020
-This repository has projects I programmed during my 2 years learner-ship with wethinkcode. 
+This repository has projects I coded and submitted as my Course work for wethinkcode.
