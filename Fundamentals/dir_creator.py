@@ -6,7 +6,7 @@ os.remove("topics.txt")
 topics = file.readlines()
 file.close()
 
-script = list()
+commnads = list()
 for each in topics:
     words = each.split(" ")
     i = 0
@@ -14,7 +14,7 @@ for each in topics:
     while words[i] != "[In":
         line += words[i] + " "
         i += 1
-    script.append(line + '"\n')
+    commands.append(line + '"\n')
 
-for each in script:
+for each in commands:
   os.system(each)
