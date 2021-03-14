@@ -1,0 +1,1 @@
+print("[Package] Multiple Currency Support package loaded.")

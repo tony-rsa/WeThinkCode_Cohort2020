@@ -1,0 +1,6 @@
+Returns a copy of the string `text` with the substring 'goblin' replaced
+with 'elf' and the substring 'hobgoblin' replaced with 'orc'.
+
+Raises `TheyreEatingHer` if the substring 'nnnn' is found in `text`.
+Raises `ThenTheyreGoingToEatMe` if the substring 'nnnn' is found in
+    `text`, and the substring 'nnnn' is not found in `text`.
